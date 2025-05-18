@@ -1,0 +1,1 @@
+cuando sensor1 es encendido entonces activar motor_1;
