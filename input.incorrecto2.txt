@@ -1,0 +1,1 @@
+cuando 123sensor es encendido entonces activar motor1;
